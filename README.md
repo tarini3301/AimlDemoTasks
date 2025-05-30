@@ -1,50 +1,27 @@
-# AI & ML Internship - Data Cleaning & Preprocessing
+# AI & ML Internship – Project Repository
 
-## Overview
-This project focuses on the essential data cleaning and preprocessing steps required for machine learning workflows. The goal is to prepare raw data for building accurate and robust ML models.
-
----
-
-## Task Objectives
-- Import and explore the dataset (checking for null values, data types, etc.)
-- Handle missing values using techniques like mean, median, or imputation
-- Convert categorical features into numerical format using encoding methods
-- Normalize or standardize numerical features for consistent scaling
-- Visualize and remove outliers using boxplots
+This repository contains work completed as part of the **AI & ML Internship**, focusing on essential concepts such as data preprocessing, exploratory data analysis, and basic machine learning models.
 
 ---
 
-## Dataset
-For this task, the [Titanic Dataset](https://www.kaggle.com/c/titanic/data) is used as an example.  
-*(You can use any other dataset relevant to this task.)*
+## 💡 Key Concepts Covered
+
+- **Data cleaning**: Handling missing values using mean, median, or imputation  
+- **Encoding categorical features** using label and one-hot encoding  
+- **Feature scaling** through normalization and standardization  
+- **Outlier detection** using boxplots and basic statistical methods  
+- **Exploratory data analysis** with summary statistics and visualizations  
+- **Correlation analysis** and pattern identification  
+- **Model building** using linear and logistic regression  
+- **Evaluation metrics** like MAE, MSE, R², confusion matrix, precision, recall, and ROC-AUC  
 
 ---
 
-## Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
+## 🛠 Tools & Libraries Used
+
+- Python  
+- Pandas, NumPy  
+- Seaborn, Matplotlib, Plotly  
+- Scikit-learn  
 
 ---
-
-## What You Will Learn
-- Data cleaning and handling null values
-- Encoding categorical variables (One-Hot Encoding, Label Encoding)
-- Feature scaling: normalization vs standardization
-- Outlier detection and removal
-- Importance of preprocessing in machine learning pipelines
-
----
-
-## Code Example (Snippet)
-```python
-import pandas as pd
-
-# Load dataset
-df = pd.read_csv('Titanic.csv')
-
-# Basic data exploration
-print(df.info())
-print(df.isnull().sum())
-print(df.describe(include='all'))
