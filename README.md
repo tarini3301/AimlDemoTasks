@@ -1,6 +1,6 @@
-# AI & ML Internship Tasks (Tasks 1 to 6)
+# AI & ML Internship Tasks (Tasks 1 to 7)
 
-Welcome to my AI & ML Internship repository! This repo contains implementations and analysis of six fundamental machine learning tasks. Each task is accompanied by code, explanations, and relevant visualizations to demonstrate understanding and application of core ML concepts using Python and popular libraries like Pandas, Scikit-learn, Matplotlib, and Seaborn.
+Welcome to my AI & ML Internship repository! This repo contains implementations and analysis of seven fundamental machine learning tasks. Each task is accompanied by code, explanations, and relevant visualizations to demonstrate understanding and application of core ML concepts using Python and popular libraries like Pandas, Scikit-learn, Matplotlib, and Seaborn.
 
 ---
 
@@ -57,5 +57,14 @@ Welcome to my AI & ML Internship repository! This repo contains implementations 
 - **Tools Used:** Scikit-learn, Pandas, Matplotlib
 - **Dataset:** [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
 - **Key Learning:** Instance-based learning and its sensitivity to feature scaling.
+
+---
+
+### ✅ Task 7: Support Vector Machines (SVM)
+- **Objective:** Use SVMs for linear and non-linear classification.
+- **Concepts Covered:** Support vectors, kernel trick, hyperparameter tuning (C and gamma), and decision boundary visualization.
+- **Tools Used:** Scikit-learn, NumPy, Matplotlib
+- **Dataset:** [Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+- **Key Learning:** Margin maximization and kernel-based learning.
 
 ---
