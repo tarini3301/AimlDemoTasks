@@ -1,6 +1,6 @@
-# AI & ML Internship Tasks (Tasks 1 to 7)
+# AI & ML Internship Tasks (Tasks 1 to 8)
 
-Welcome to my AI & ML Internship repository! This repo contains implementations and analysis of seven fundamental machine learning tasks. Each task is accompanied by code, explanations, and relevant visualizations to demonstrate understanding and application of core ML concepts using Python and popular libraries like Pandas, Scikit-learn, Matplotlib, and Seaborn.
+Welcome to my AI & ML Internship repository! This repo contains implementations and analysis of eight fundamental machine learning tasks. Each task is accompanied by code, explanations, and relevant visualizations to demonstrate understanding and application of core ML concepts using Python and popular libraries like Pandas, Scikit-learn, Matplotlib, and Seaborn.
 
 ---
 
@@ -66,5 +66,14 @@ Welcome to my AI & ML Internship repository! This repo contains implementations 
 - **Tools Used:** Scikit-learn, NumPy, Matplotlib
 - **Dataset:** [Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 - **Key Learning:** Margin maximization and kernel-based learning.
+
+---
+
+### ✅ Task 8: Clustering with K-Means
+- **Objective:** Perform unsupervised learning with K-Means clustering.
+- **Concepts Covered:** Elbow method, Silhouette Score, PCA (optional), and visualizing clusters.
+- **Tools Used:** Scikit-learn, Pandas, Matplotlib
+- **Dataset:** [Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- **Key Learning:** Unsupervised learning, cluster evaluation, and visualization.
 
 ---
