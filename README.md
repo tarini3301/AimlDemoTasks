@@ -1,4 +1,4 @@
-# AI & ML Internship Tasks (Tasks 1 to 8)
+# AI & ML demo Tasks (Tasks 1 to 8)
 
 Welcome to my AI & ML Internship repository! This repo contains implementations and analysis of eight fundamental machine learning tasks. Each task is accompanied by code, explanations, and relevant visualizations to demonstrate understanding and application of core ML concepts using Python and popular libraries like Pandas, Scikit-learn, Matplotlib, and Seaborn.
 
